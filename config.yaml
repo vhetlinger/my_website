@@ -10,8 +10,7 @@ params:
     #subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Valerio and I am part of the MFA2022 cohort at 
-    London Business School
+    title: Hi, my name is Valerio and I am part of the MFA2022 cohort at London Business School
   blog: {}
   contact:
     address:
@@ -22,11 +21,11 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: vhetlinger.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: +43 699 18415087
         title: Phone
   custom_css: []
   custom_js: []
@@ -57,7 +56,7 @@ params:
         url: https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/valeriohetlinger
   image: ''
   name: Your name
   navigation:
@@ -85,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: A short biography
         title: About me
-        url: blogs/aliquam
+        url: blogs/me
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Risk Return of DJIA
@@ -97,7 +96,7 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        url: blogs/me
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
