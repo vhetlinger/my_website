@@ -93,10 +93,10 @@ params:
         subtitle: kostis output
         title: DJIA Performance
         url: blogs/risk_return
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/me
+      - image: merger.jpg
+        subtitle: One of the recent articles we produced at Bocconi's M&A Circle
+        title: M&A Article
+        url: blogs/article
       #- image: pic05.jpg
         #subtitle: Ipsum Dolor Sit Amet
         #title: Consequat
