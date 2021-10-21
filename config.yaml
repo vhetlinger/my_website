@@ -89,10 +89,10 @@ params:
         subtitle: Feel free to give a look at my current CV
         title: CV
         url: blogs/magna #slug of rmd!
-      - image: CV.jpg
-        subtitle: kostis output
-        title: DJIA Performance
-        url: blogs/risk_return
+      - image: pic10.jpg
+        subtitle: You will find an example of the work we have done at LBS as part of the course "Data Analytics for Finance"
+        title: Weather anomalies
+        url: blogs/website_project
       - image: merger.jpg
         subtitle: One of the recent articles we produced at Bocconi's M&A Circle
         title: M&A Article
