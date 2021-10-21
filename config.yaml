@@ -53,7 +53,7 @@ params:
        # url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/vhetlinger
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/valeriohetlinger
@@ -71,8 +71,8 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
+      #- name: Generic Blog
+       # url: blogs/ipsum
      # - name: Elements
       #  url: elements.html
     menu: Menu
